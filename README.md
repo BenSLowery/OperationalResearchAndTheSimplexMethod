@@ -1,0 +1,7 @@
+# Papers
+Papers written whilst as a Maths student (Undergraduate and Masters) at Hull University. Papers (chronological order):
+
+1. Monty Hall Problem 
+2. Operational Research and the Simplex Algorithm (3rd Year Undergraduate Dissertation)
+3. Astronomy paper (to-upload)
+4. 4th year dissertation (soon)
